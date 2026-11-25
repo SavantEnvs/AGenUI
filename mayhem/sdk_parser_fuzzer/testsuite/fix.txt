@@ -1,0 +1,3 @@
+<a2ui-json>
+[{“id”: “test”,},]
+</a2ui-json>

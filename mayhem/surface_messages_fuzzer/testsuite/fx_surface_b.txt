@@ -1,0 +1,1 @@
+{"version":"v0.9","updateComponents":{"surfaceId":"main","components":[{"id":"root","component":"Column","children":["text-b1","text-b2"],"align":"stretch","styles":{"padding":"20px"}},{"id":"text-b1","component":"Text","text":"Surface B - Title","variant":"h2"},{"id":"text-b2","component":"Text","text":"Surface B - only text components, no Button","variant":"body"}]}}

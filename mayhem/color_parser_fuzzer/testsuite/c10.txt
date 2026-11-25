@@ -1,0 +1,1 @@
+radial-gradient(ellipse farthest-corner at 20% 30%, #fff 10px, #000)

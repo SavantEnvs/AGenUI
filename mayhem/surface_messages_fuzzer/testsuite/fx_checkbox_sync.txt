@@ -1,0 +1,1 @@
+{"version":"v0.9","updateComponents":{"surfaceId":"main","components":[{"id":"root","component":"Column","children":["cb-agree"],"align":"stretch","styles":{"padding":"20px"}},{"id":"cb-agree","component":"CheckBox","label":"I agree to the terms and conditions","value":false}]}}

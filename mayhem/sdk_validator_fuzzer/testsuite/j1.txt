@@ -1,0 +1,1 @@
+{"version":"v0.9","updateComponents":{"surfaceId":"s1","components":[{"id":"root","component":"Row","children":["a","b"]},{"id":"a","component":"Image","url":"x"},{"id":"b","component":"Text","text":"y"},{"id":"orphan","component":"Text","text":"z"}]}}

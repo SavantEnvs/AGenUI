@@ -1,0 +1,9 @@
+project: savantenvs/AGenUI
+target: sdk_parser_fuzzer
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/sdk_parser_fuzzer/testsuite
+cmds:
+  - cmd: /mayhem/sdk_parser_fuzzer
+    libfuzzer: true
+    timeout: 5

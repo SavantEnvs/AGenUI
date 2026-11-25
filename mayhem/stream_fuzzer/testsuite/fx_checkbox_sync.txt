@@ -1,0 +1,2 @@
+{"version":"v0.9","createSurface":{"surfaceId":"test-surf-checkbox-01","catalogId":"https://a2ui.org/specification/v0_9/catalogs/basic/catalog.json"}}
+{"version":"v0.9","updateComponents":{"surfaceId":"test-surf-checkbox-01","components":[{"id":"root","component":"Column","children":["cb-agree"],"align":"stretch","styles":{"padding":"20px"}},{"id":"cb-agree","component":"CheckBox","label":"I agree to the terms and conditions","value":false}]}}

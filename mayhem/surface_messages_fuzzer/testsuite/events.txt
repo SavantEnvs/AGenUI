@@ -1,0 +1,4 @@
+{"version":"v0.9","updateComponents":{"surfaceId":"main","components":[{"id":"root","component":"Column","children":["f","btn"]},{"id":"f","component":"TextField","label":"Name","value":{"path":"/user/name"}},{"id":"btn","component":"Button","child":"f","action":{"event":{"name":"submit","context":{"name":{"path":"/user/name"}}}}}]}}
+{"version":"v0.9","updateDataModel":{"surfaceId":"main","path":"/user","value":{"name":"bob"}}}
+@action btn {"name":"submit","context":{"x":1}}
+@sync f {"value":"alice"}

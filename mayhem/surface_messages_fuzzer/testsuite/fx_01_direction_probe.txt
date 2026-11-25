@@ -1,0 +1,1 @@
+{"version":"v0.9","updateComponents":{"surfaceId":"main","components":[{"id":"root","component":"Column","children":["measurement-direction-probe"],"styles":{"width":"240px"}},{"id":"measurement-direction-probe","component":"MeasurementDirectionProbe","styles":{"width":"240px"}}]}}
